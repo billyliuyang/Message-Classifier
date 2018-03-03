@@ -1,4 +1,4 @@
-mport org.apache.log4j.{Level,Logger}
+import org.apache.log4j.{Level,Logger}
 import org.apache.spark.ml.Pipeline
 import org.apache.spark.ml.classification.MultilayerPerceptronClassifier
 import org.apache.spark.ml.evaluation.MulticlassClassificationEvaluator
